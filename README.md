@@ -1,7 +1,7 @@
 # sacrament-bulletin
 
 The google spreadsheet for the weekly meetings will contain the following fields:
-*date	
+* date	
 * is fast sunday?	
 * presiding	
 * conducting	
