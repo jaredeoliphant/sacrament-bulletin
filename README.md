@@ -4,7 +4,7 @@ The google spreadsheet for the weekly meetings will contain the following fields
 *date	
 * is fast sunday?	
 * presiding	
-*conducting	
+* conducting	
 * organist	
 * chorister	
 * opening hymn number	
