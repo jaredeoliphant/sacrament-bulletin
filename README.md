@@ -2,7 +2,7 @@
 
 The google spreadsheet for the weekly meetings will contain the following fields:
 * date	
-* is fast sunday?	
+* is fast sunday?	(as a boolean checkbox)
 * presiding	
 * conducting	
 * organist	
